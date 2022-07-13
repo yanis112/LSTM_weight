@@ -1,1 +1,2 @@
-worker: python bot.py
+web: python YOURSCRIPTNAME.py
+worker: python YOURSCRIPTNAME.py 
