@@ -1,2 +1,1 @@
-web: python bot.py
-worker: python bot.py 
+web: python manage.py runserver 0.0.0.0:5000
